@@ -1,0 +1,13 @@
+https://www.youtube.com/watch?v=Bcy4lmaW56o
+git init
+git add .
+git commit -m "file added"
+git branch
+git branch feature
+git checkout feature
+git add .
+git commit -m "file added"
+git remote add origin <copy clone url from devops>
+git push --set-upstream origin feature
+
+
